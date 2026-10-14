@@ -75,6 +75,6 @@ screenshots/
 
 ## Notlar
 
-- Ürün verileri ve görselleri, eğitim amaçlı sunulan wantapi.com sahte (mock) API'sinden gelir.
+- Ürün verileri ve görselleri, eğitim amaçlı sunulan wantapi.com sahte API'sinden gelir.
 - Sipariş (checkout) işlemi simülasyondur, gerçek bir sipariş oluşturulmaz.
 - Favoriler ve sepet bellekte tutulur, uygulama kapatılınca sıfırlanır.
