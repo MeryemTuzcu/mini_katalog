@@ -26,7 +26,7 @@ Flutter 3.47.7
 ## Çalıştırma Adımları
 
 ```bash
-git clone <https://github.com/MeryemTuzcu/mini_katalog>
+git clone https://github.com/MeryemTuzcu/mini_katalog
 cd mini_katalog
 flutter create .
 flutter pub get
