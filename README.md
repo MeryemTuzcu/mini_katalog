@@ -28,10 +28,11 @@ Flutter 3.47.7
 ```bash
 git clone https://github.com/MeryemTuzcu/mini_katalog
 cd mini_katalog
-flutter create .
 flutter pub get
 flutter run
 ```
+
+> Not: Platform klasörleri (android, ios vb.) eksik çıkarsa proje klasöründe önce `flutter create .` komutunu çalıştırın.
 
 - `flutter create .` android/ios klasörlerini oluşturur, mevcut kodun üzerine yazmaz.
 - Android emülatörü veya USB hata ayıklaması açık bir Android cihaz ve **internet bağlantısı** gerekir.
